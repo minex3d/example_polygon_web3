@@ -2,6 +2,10 @@
 
 Interact with fungible and non-fungible Token (NFT) using Polygon and Web3.JS
 
+## Documentation (www source)
+
+https://hgminerva.wordpress.com/2022/10/22/deploying-and-executing-web3-smart-contracts-in-polygon-using-node-js-and-web3-js/
+
 ## Wallet 
 
 Metamask: https://metamask.io/
